@@ -1,3 +1,5 @@
+> **Note:** This is a reference fork. The original upstream repository is the actively maintained version. This fork is kept for personal reference and is not actively developed.
+
 COMPUTATIONAL INVESTING HOMEWORK
 ============
 This is the set of homework I did for Computational Investing Part 1 (https://www.coursera.org/course/compinvesting1)
